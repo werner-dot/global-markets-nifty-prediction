@@ -6,7 +6,7 @@ Period Analysed: 2019–2024
 🔍 Project Overview
 
 This project analyses the interconnectedness of major global equity markets and evaluates whether global index movements and volatility (VIX) can predict the daily opening direction of the NIFTY 50. The study demonstrates how global market shocks propagate across regions and influence short-term directional behaviour.
-[Download Presentation Slides](./NIFTY_Global_Markets_Project_Presentation.pdf)
+[Download Presentation Slides](./Project_Presentation.pdf)
 
 🎯 Research Objective
 
