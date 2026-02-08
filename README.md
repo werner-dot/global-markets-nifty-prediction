@@ -1,5 +1,8 @@
 📈 Global Market Interconnectedness & NIFTY50 Opening Direction Prediction
 
+🌐 **Live Project Site:**  
+👉 https://werner-dot.github.io/global-markets-nifty-prediction/
+
 Author: Werner Visser
 Period Analysed: 2019–2024
 
